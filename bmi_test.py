@@ -1,5 +1,4 @@
 import csv
-from collections import Counter
 file_path = 'C:\\Miten\\Python Preparation\\Interview Questions\\comp_test\\'
 def read_contents():
     list_of_row = []
