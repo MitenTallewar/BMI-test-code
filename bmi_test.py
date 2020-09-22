@@ -1,6 +1,6 @@
 import csv
 
-class BMI():
+class BMI:
     bmi_categoty ={ 'UW' :'Underweight',
                     'NW': 'Normal Weight',
                     'OW': 'Over Weight',
