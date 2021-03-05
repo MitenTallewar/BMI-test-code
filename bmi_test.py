@@ -94,8 +94,6 @@ def write_csv(data):
 
 if __name__ == '__main__':
     contents = read_contents()
-    # print(result)
     finaldata = finaldata_with_bmi(contents)
-    # print('final data with BMI-->',finaldata)
     result = write_csv(finaldata)
     print(result)
